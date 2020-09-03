@@ -1,0 +1,11 @@
+.banner-area .wave-shape{
+	position:absolute;
+	bottom:-2px;
+	fill:#121d30;
+}
+@media screen and (-ms-high-contrast:active),(-ms-high-contrast:none){
+	.banner-area .wave-shape{
+		height:10%;
+		width:100%;
+	}
+}

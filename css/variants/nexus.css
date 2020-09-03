@@ -1,0 +1,11 @@
+.banner-area .nexus-shape{
+	position:absolute;
+	bottom:-1px;
+	fill:#121d30;
+}
+@media screen and (-ms-high-contrast:active),(-ms-high-contrast:none){
+	.header-area .nexus-shape{
+		width:100%;
+		height:10%
+	}
+}
